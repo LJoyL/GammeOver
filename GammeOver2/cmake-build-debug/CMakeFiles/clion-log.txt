@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Documents/GitHub/GammeOver/GammeOver
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Documents/GitHub/GammeOver/GammeOver/cmake-build-debug

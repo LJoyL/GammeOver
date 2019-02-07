@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549566864 source:d:\documents\github\gammeover\gammeover\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

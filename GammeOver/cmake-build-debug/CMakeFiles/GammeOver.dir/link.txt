@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GammeOver.dir/main.cpp.o  -o GammeOver 
